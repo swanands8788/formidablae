@@ -1,7 +1,7 @@
 <!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
 <!--- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge" /> -->
 <h3 align="center">
-	Hello and welcome :smile:
+	Hello and welcome Swanand
 </h3>
 
 <h4 align="center">
